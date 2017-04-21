@@ -1,0 +1,1 @@
+Ruby on Rails (a web app framework) uses Ruby (a programming language).
