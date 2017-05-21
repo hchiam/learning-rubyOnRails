@@ -1,5 +1,3 @@
-# rubyOnRailsSandbox
-
-My Ruby on Rails sandbox.
+# Learning Ruby on Rails
 
 Also holds folder for testing Ruby itself.
