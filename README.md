@@ -2,4 +2,4 @@
 
 Also holds folder for testing Ruby itself.
 
-guides.rubyonrails.org/getting_started.html
+http://guides.rubyonrails.org/getting_started.html
