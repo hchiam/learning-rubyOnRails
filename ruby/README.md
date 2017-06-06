@@ -1,6 +1,8 @@
 Ruby on Rails (a web app framework) uses Ruby (a programming language).
 
-Ruby quick guide on tutorialspoint.com: [https://www.tutorialspoint.com/ruby/ruby_quick_guide.htm](https://www.tutorialspoint.com/ruby/ruby_quick_guide.htm)
+Ruby quick guide at tutorialspoint.com: https://www.tutorialspoint.com/ruby/ruby_quick_guide.htm
+
+Ruby even quicker interative tutorial at learnrubyonline.org: https://www.learnrubyonline.org/en/Hello%2C_World%21
 
 # To run in interactive mode in terminal:
 
